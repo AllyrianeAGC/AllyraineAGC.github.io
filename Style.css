@@ -1,7 +1,16 @@
 body {
-    background-color: #ebcb2d;
-}
+    font-family: Courier New, Courier, monospace;
+    margin: 100px;
+    text-align: center;
+    background-image: url(http://www.kristenboylanphotography.com/img/s5/v122/p76638621-5.jpg);
 
-img {
-    width: 400px
+}
+#list {
+    background-color: white;
+    border-radius: 20px;
+    border-left-width: 10px;
+    border-color: grey;
+    padding: 30px;
+    color: grey;
+
 }
